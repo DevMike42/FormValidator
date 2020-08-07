@@ -7,3 +7,5 @@ A basic example of form validation using Vanilla JavaScript. Custom functions ar
 * **HTML5**
 * **CSS3**
 * **JavaScript (ES2015 & ES6)**
+
+### [Check it out!](https://confident-curran-3644d3.netlify.app/)
